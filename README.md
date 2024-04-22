@@ -32,7 +32,7 @@ To reverse engineering the product and prototyping the same in 3D printer.
 ## Input:
 
 ### Output:
-![WhatsApp Image 2023-12-24 at 16 40 10_5ab6b9b1](https://github.com/Raji1009/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/89059861/d1a8c2c5-e1c9-4c89-af31-2de55a5a8e33)
+
 
 ### Name: RASIKA  M
 ### Register Number: 212222230117
