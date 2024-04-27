@@ -30,8 +30,10 @@ To reverse engineering the product and prototyping the same in 3D printer.
     ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![input](https://github.com/rasika1206/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/124434806/e48f564e-99c0-4175-9ec5-dedfeec467b6)
 
 ### Output:
+![output](https://github.com/rasika1206/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/124434806/664fff50-e483-4c3a-b970-a6f4aa1eb3d7)
 
 
 ### Name: RASIKA  M
